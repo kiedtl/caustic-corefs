@@ -1,0 +1,7 @@
+NAME="caustic"
+PRETTY_NAME="Caustic Linux"
+ID=caustic
+HOME_URL="https://github.com/kiedtl/caustic"
+DOCUMENTATION_URL="https://github.com/kiedtl/caustic"
+SUPPORT_URL="https://github.com/kiedtl/caustic"
+BUG_REPORT_URL="https://github.com/kiedtl/caustic"
